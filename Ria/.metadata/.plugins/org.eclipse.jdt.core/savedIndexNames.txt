@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+D:\Users\ribose\Desktop\Ria\.metadata\.plugins\org.eclipse.jdt.core
+1122839536.index
+1724382459.index
+2700160650.index
+2444040406.index
+2852784265.index
+2492413961.index
+2309072128.index
+3231320715.index
+3838453466.index
+1036075432.index
+1843462684.index
+3723330344.index
+3998579576.index
+633639425.index
+2886759672.index
+257660539.index
+529432742.index
+1944453761.index
+662891179.index

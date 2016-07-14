@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\Users\ribose\Desktop\Ria\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3962441020.index
+1122839536.index
+845087297.index
+3766142652.index
+2789729552.index
+1202411823.index
